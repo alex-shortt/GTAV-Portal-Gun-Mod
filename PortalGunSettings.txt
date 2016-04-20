@@ -1,0 +1,16 @@
+|For keys list, go to http://bit.ly/1IW5uTY|
+|Defaults are T, E, O, K, L, B, I, Y, true, true, 15. Put None if you want to disable that key. Make sure to not
+add any spaces or enters that are not already there.|
+
+Blue Portal Key=T
+Grab Entities=E
+Toggle Long Fall Boots=O
+TP To Blue Portal=K
+TP To Orange Portal=L
+Spawn Random Ped=B
+Toggle Being Sucked In By Moon=I
+Place Portal on Moon=Y
+Hold For Blue Portal=true
+Crosshairs While Falling=true
+Moon Suck Distance=15
+Example of Key Disabled=None
